@@ -9,7 +9,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHoldermainContent" Runat="Server">
     <asp:Login ID="Login1" runat="server" BackColor="#EFF3FB" BorderColor="#B5C7DE" 
         BorderPadding="4" BorderStyle="Solid" BorderWidth="1px" Font-Names="Verdana" 
-        Font-Size="0.8em" ForeColor="#333333">
+        Font-Size="0.8em" ForeColor="#333333" LoginButtonText="学生登录" 
+        TitleText="学生登录窗口">
         <InstructionTextStyle Font-Italic="True" ForeColor="Black" />
         <LoginButtonStyle BackColor="White" BorderColor="#507CD1" BorderStyle="Solid" 
             BorderWidth="1px" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#284E98" />

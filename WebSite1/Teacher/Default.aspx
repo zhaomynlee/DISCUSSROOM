@@ -1,9 +1,14 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Masters/TeacherMaster.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="Teacher_Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Masters/TeacherMaster.master" Debug="true" %>
+
+
+
+<script runat="server">
+
+</script>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolderRightContent" Runat="Server">
-
-</ <div class = "boxGreen" style="text-align:right;">
-欢迎您：XXX，您是教师
+    <div class = "boxGreen" style="text-align:right;">
+欢迎您：XXX，您是管理员
 </div>
 <fieldset>
 <legend>待审核的讨论室申请</legend>
@@ -200,5 +205,6 @@
 
            
                       </table>
-</fieldset>asp:Content>
+</fieldset>
+</asp:Content>
 

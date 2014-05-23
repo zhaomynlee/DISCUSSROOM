@@ -51,7 +51,7 @@
 </script>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolderRightContent" Runat="Server">
-<fieldset>
+    <fieldset>
 <legend>会员列表</legend>
 
     <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" 

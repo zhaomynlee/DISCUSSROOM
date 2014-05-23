@@ -9,7 +9,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHoldermainContent" Runat="Server">
     <div id="welcometopage">
-        欢迎来到用户界面
+        欢迎来到学生界面
         </div>
   
     <div id ="userleftContent"class ="left">  
@@ -22,7 +22,7 @@
          <div class="LineLeftRight">
        
                    <div class="title">
-                    用户菜单
+                    学生菜单
                 </div>
                     <div id="pagetype" class="whiteback" style="height:400px;">   
                    <%-- <ul>

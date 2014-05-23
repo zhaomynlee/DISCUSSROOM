@@ -24,7 +24,7 @@
 <table border="0" cellpadding="3" cellspacing="0" width="100%" style=" margin:6px;">
                     <tr  class="dot" >
                              
-                        <td   class="dot" width=30%">
+                        <td   class="dot" width="30%">
              
                 
              <br />

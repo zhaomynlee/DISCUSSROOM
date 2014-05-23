@@ -32,7 +32,7 @@
               </div>
 
              <div id ="welcome" class ="right">
-             您好，歡迎讨论室系统  <a href ="~/Login.aspx"> 登陸</a>  <a href ="#">  註冊</a>  <a href ="~/Admin/Default.aspx"> 管理员入口</a>
+             您好，歡迎进入讨论室系统  <a href ="http://localhost:51061/WebSite1/Login.aspx"> 学生入口</a>  <a href ="http://localhost:51061/WebSite1/Teacher/Login.aspx">  教师入口</a>  <a href ="http://localhost:51061/WebSite1/Admin/Login.aspx"> 管理员入口</a>
              </div>
          
            
